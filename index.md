@@ -1,6 +1,6 @@
 ## Welcome to Christopher's Summer Work
 
-In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** *insert angry face*.[chicken](https://github.com/RobotToy/ChristopherTeli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠 .[chicken](https://github.com/RobotToy/ChristopherTeli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
