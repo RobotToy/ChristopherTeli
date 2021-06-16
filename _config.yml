@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: Christopher's Homework
+description: WooHoo! It's time for Christopher's homework! Have fun kiddo...
+github:
+  is_project_page: false
