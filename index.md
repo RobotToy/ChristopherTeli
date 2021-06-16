@@ -17,12 +17,14 @@ In order to get ahead in life, it is important that Christopher does something o
 - [Do I Have a Right](https://www.icivics.org/games/do-i-have-right)
 
 ## [Art](https://www.youtube.com/c/ArtforKidsHub/featured)
+- [Artist Network](https://www.artistsnetwork.com/free-art-instruction/)
+- [Art Projects for Kids](https://artprojectsforkids.org/gallery-new/)
+- [Art for Kids Hub](https://www.artforkidshub.com/)
 
 # Assigned Homework
 
 Christopher's assigned homework is below: 
 
-```markdown
 Homework (6/17)
 1. Reading - read 100 pages
 2. Math - complete the assignments linked [here](https://www.mathplayground.com/)
@@ -30,5 +32,5 @@ Homework (6/17)
 4. Play with Didi for 5 hourse
 
 ![Image](src)
-```
+
 
