@@ -1,7 +1,20 @@
-## Welcome to Christopher's Summer Work
+# Welcome to Christopher's Summer Work
 
 In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠. In the section below, there will be links to his assigns for today (will be updated daily). In addition, here are other resource if he feels ✨inspired✨ to go above and beyond. 
-- [Khan Academy](https://www.khanacademy.org/) to maintain and preview the content for your website in Markdown files.
+
+## [Khan Academy](https://www.khanacademy.org/)
+- [3rd Grade Math](https://www.khanacademy.org/math/cc-third-grade-math)
+- [3rd Grade English](https://www.khanacademy.org/ela/cc-3rd-reading-vocab)
+- [Animation](https://www.khanacademy.org/computing/pixar)
+- [An Hour of Coding](https://www.khanacademy.org/hourofcode)
+
+## [iCivis](https://www.icivics.org/)
+- [Win the White House](https://www.icivics.org/games/win-white-house)
+- [Executive Command](https://www.icivics.org/games/executive-command)
+- [Argument Wars](https://www.icivics.org/games/argument-wars)
+- [Do I Have a Right](https://www.icivics.org/games/do-i-have-right)
+
+##
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
