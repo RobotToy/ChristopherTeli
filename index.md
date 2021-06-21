@@ -25,13 +25,7 @@ In order to get ahead in life, it is important that Christopher does something o
 
 Christopher's assigned homework is below: 
 
-Homework (6/17)
-1. Reading - read 100 pages
-2. Math - complete the assignments linked [here](https://www.mathplayground.com/)
-3. Ummm...
-4. Play with Didi for 5 hourse
-
-
+[Homework 2021/06/21](./2021-06-21).
 
 
 ![Image](https://lh3.googleusercontent.com/pw/ACtC-3efrlcMgMKKr6obwYZeQHMr4D26J3s5zIQcCLskvRLIv7ePxRkEnoG2QAs1vVRmwtXnkiR347tWR59x3NgNXRb_sJQ-Aq4SLm5nkT_XlsxrcfpHB76LO2ZRlUU_pGxLIpHyMCg9M8gkAopfGGI-MkqSkQ=w678-h903-no?authuser=0)
