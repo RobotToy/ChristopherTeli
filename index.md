@@ -2,6 +2,14 @@
 
 In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠. In the section below, there will be links to his assigns for today (will be updated daily). In addition, here are other resource if he feels ✨inspired✨ to go above and beyond. 
 
+# Navigation
+nav:
+- name:     "About"
+  url:      "/about"
+- name:     "Archive"
+  url:      "/archive"
+- name:     "Tags"
+  url:      "/tags"
 ## [Khan Academy](https://www.khanacademy.org/)
 - [3rd Grade Math](https://www.khanacademy.org/math/cc-third-grade-math)
 - [3rd Grade English](https://www.khanacademy.org/ela/cc-3rd-reading-vocab)
@@ -32,11 +40,6 @@ Homework (6/17)
 4. Play with Didi for 5 hourse
 
 
-Homework (6/20)
-1. Reading - read 100 pages
-2. Math - complete the assignments linked [here](https://www.mathplayground.com/)
-3. Ummm...
-4. Play with Didi for 5 hourse
 
 
 ![Image](https://lh3.googleusercontent.com/pw/ACtC-3efrlcMgMKKr6obwYZeQHMr4D26J3s5zIQcCLskvRLIv7ePxRkEnoG2QAs1vVRmwtXnkiR347tWR59x3NgNXRb_sJQ-Aq4SLm5nkT_XlsxrcfpHB76LO2ZRlUU_pGxLIpHyMCg9M8gkAopfGGI-MkqSkQ=w678-h903-no?authuser=0)
