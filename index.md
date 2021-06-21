@@ -2,14 +2,6 @@
 
 In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠. In the section below, there will be links to his assigns for today (will be updated daily). In addition, here are other resource if he feels ✨inspired✨ to go above and beyond. 
 
-# Navigation
-nav:
-- name:     "About"
-  url:      "/about"
-- name:     "Archive"
-  url:      "/archive"
-- name:     "Tags"
-  url:      "/tags"
 ## [Khan Academy](https://www.khanacademy.org/)
 - [3rd Grade Math](https://www.khanacademy.org/math/cc-third-grade-math)
 - [3rd Grade English](https://www.khanacademy.org/ela/cc-3rd-reading-vocab)
