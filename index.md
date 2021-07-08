@@ -1,6 +1,6 @@
 # Welcome to Christopher's Summer Work
 
-In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠. In the section below, there will be links to his assigns for today (will be updated daily). In addition, here are other resource if he feels ✨inspired✨ to go above and beyond. 
+In order to get ahead in life, it is important that Christopher does something other than **PLAYING VIDEO GAMES** 😠. In the section below, there will be links to his assigns for today (will be updated daily). In addition, here are other resource if he feels ✨inspired✨ to go above and beyond.
 
 ## [Khan Academy](https://www.khanacademy.org/)
 - [3rd Grade Math](https://www.khanacademy.org/math/cc-third-grade-math)
@@ -23,11 +23,12 @@ In order to get ahead in life, it is important that Christopher does something o
 
 # Assigned Homework
 
-Christopher's assigned homework is below: 
+Christopher's assigned homework is below:
 
-[Homework 2021/06/21](./2021-06-21.html).
-[Homework 2021/06/21](./2021-06-22.html).
-[Homework 2021/06/21](./2021-07-07.html).
+[Homework 2021/06/21](./2021-06-21.html)
+[Homework 2021/06/22](./2021-06-22.html)
+[Homework 2021/07/07](./2021-07-07.html)
+[Homework 2021/07/08](./2021-07-08.html)
 
 
 ![Image](https://lh3.googleusercontent.com/pw/ACtC-3efrlcMgMKKr6obwYZeQHMr4D26J3s5zIQcCLskvRLIv7ePxRkEnoG2QAs1vVRmwtXnkiR347tWR59x3NgNXRb_sJQ-Aq4SLm5nkT_XlsxrcfpHB76LO2ZRlUU_pGxLIpHyMCg9M8gkAopfGGI-MkqSkQ=w678-h903-no?authuser=0)
